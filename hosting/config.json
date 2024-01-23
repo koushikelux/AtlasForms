@@ -1,3 +1,5 @@
 {
-    "enabled": true
+    "enabled": true,
+    "app_default_domain": "atlasforms-awnop.mongodbstitch.com"
+
 }
